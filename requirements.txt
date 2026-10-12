@@ -1,0 +1,12 @@
+# Core (baselines, metrics, figures, data)
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+scipy>=1.10
+matplotlib>=3.7
+
+# TinyStressNet training + int8 quantization
+torch>=2.1
+
+# Optional: ordered-logit baseline
+statsmodels>=0.14
